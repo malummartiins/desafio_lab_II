@@ -34,3 +34,16 @@ criada por você. Para este desafio, é imprescindível o entendimento da funç�
 estabilidade de algoritmos de ordenação.
 
 
+# Etapa 3. Listas Estáticas
+
+Na terceira etapa, o desafio do módulo solicita que você implemente alguns
+métodos utilizando Estruturas de Dados Estáticas.
+
+# Etapa 4. Listas Dinâmicas
+
+De acordo com o que estudamos, você deve implementar uma pilha e uma fila
+dinâmica. Para isto, você deve criar um projeto colocar suas
+implementações neste projeto. Utilizando as interfaces Stack e Queue e a classe
+Node (ambas vistas em aula).
+
+## Instruções completas no pdf 
