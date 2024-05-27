@@ -1,6 +1,10 @@
 # Etapa 1. Arrays bidimensionais, arquivos e recursão
 
+<div align = "center">
+
 ![alt text](image-1.png)
+
+</div>
 
 Na primeira etapa do Desafio do Laboratório II, você deve criar um
 programa que simule um labirinto. No nosso sistema, o labirinto será uma
@@ -9,14 +13,11 @@ indicam que não é possível passar, enquanto posições com ' ' (espaço) indi
 que é possível a passagem. O local de destino está marcado no labirinto com a
 letra 'D'. Um exemplo de labirinto pode ser visto abaixo:
 
- XXXXXXXXX XXXXXX
-X XXXXXXXXX X XXXX
-X XXXXXXX XXX XXXX
-XXX XXXXXX XXX XXXX
-XXX XX XXXX
-XXX XX X XXXXX XXX
-XXXXXX X XXXXXX X
-XXXXXX XXXXXX XXXD
+<div align = "center">
+
+![alt text](image.png)
+
+</div>
 
 
 O labirinto será um array bidimensional de caracteres. Para a criação do
