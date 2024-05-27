@@ -26,5 +26,11 @@ caracteres correspondentes ao labirinto. Depois de ler o arquivo, você deve pas
 seu conteúdo para um array bidimensional de caracteres. Desta forma, o local de
 entrada no labirinto sempre será a posição [0][0] do array.
 
+# Etapa 2.  Pesquisa e Ordenação
+
+Na segunda etapa, exercitaremos os métodos de Pesquisa e Ordenação,
+utilizando os métodos estudados para realizar uma ordenação de uma classe
+criada por você. Para este desafio, é imprescindível o entendimento da função da
+estabilidade de algoritmos de ordenação.
 
 
