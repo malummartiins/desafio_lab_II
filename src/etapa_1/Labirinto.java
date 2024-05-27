@@ -76,4 +76,5 @@ private boolean percorreLabirinto(int x, int y) {
     return caminhoCerto;
 }
 
+
 }
