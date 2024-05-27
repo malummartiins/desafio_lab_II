@@ -56,7 +56,6 @@ public static Candidato[] criarCandidatos(int numCandidatos) {
         return candidatos;
     }
 
-   // public static Candidato[] ordenaCandidatosPorNome(Candidato[] candidatos)    return null; }
 
    //SELEÇÃO DIRETA
 
@@ -74,7 +73,6 @@ public static Candidato[] criarCandidatos(int numCandidatos) {
     }
 }
 
-    //public static Candidato[] ordenaCandidatosPorVotos(Candidato[] candidatos) {  return null; }
 
     //ULTIMOS MÉTODOS COM INSERÇÃO DIRETA
 
@@ -91,7 +89,6 @@ public static Candidato[] criarCandidatos(int numCandidatos) {
     }
 
 
-   // public static Candidato[] ordenaCandidatosPorPartido(Candidato[] candidatos) { return null; }
 
    public static void ordenaCandidatosPorPartido(Candidato[] candidatos) {
     for (int i = 1; i < candidatos.length; i++) {
@@ -107,7 +104,6 @@ public static Candidato[] criarCandidatos(int numCandidatos) {
 
     //  PESQUISA BINÁRIA
 
-   // public static Candidato[] pesquisaBinariaCandidatos(Candidato[] candidatos) { return null; }
 
    public static int pesquisaBinariaCandidatos(Candidato[] candidatos, String nome) {
     int inicio = 0;
